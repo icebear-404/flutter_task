@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "376349290597",
+    "project_id": "jobproject-c9884",
+    "storage_bucket": "jobproject-c9884.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376349290597:android:ffbf004c436b308cbb168c",
+        "android_client_info": {
+          "package_name": "com.example.fluttertask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376349290597-ijpuv1b8l57h011qno9ssemk9sah9ci5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCchIQSWD45ZUgDrhM1s8UCBuBoSBzIUqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376349290597-ijpuv1b8l57h011qno9ssemk9sah9ci5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
